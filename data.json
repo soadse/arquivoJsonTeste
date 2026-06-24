@@ -61,5 +61,10 @@
     "notificacoes": true,
     "linguagem": "pt-BR"
   },
-    "link": "https://tkoc.fandom.com/pt-br/wiki/Naruto_Uzumaki"
+  "links": [
+    {
+      "titulo": "Naruto Uzumaki",
+      "url": "https://tkoc.fandom.com/pt-br/wiki/Naruto_Uzumaki"
+    }
+  ]
 }
