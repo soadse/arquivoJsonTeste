@@ -1,5 +1,64 @@
 {
-  "nome": "Rodrigo",
-  "idade": 30,
-  "cidade": "São Paulo"
+  "usuario": {
+    "id": 101,
+    "nome": "Rodrigo",
+    "email": "rodrigo@example.com",
+    "idade": 29,
+    "endereco": {
+      "rua": "Av. Paulista",
+      "numero": 1500,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "01310-200"
+    },
+    "interesses": ["programação", "música", "viagens"]
+  },
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Notebook Gamer",
+      "preco": 5500.99,
+      "estoque": true,
+      "categorias": ["eletrônicos", "computadores"]
+    },
+    {
+      "id": 2,
+      "nome": "Smartphone",
+      "preco": 2999.50,
+      "estoque": false,
+      "categorias": ["eletrônicos", "celulares"]
+    },
+    {
+      "id": 3,
+      "nome": "Fone Bluetooth",
+      "preco": 350.00,
+      "estoque": true,
+      "categorias": ["acessórios", "áudio"]
+    }
+  ],
+  "tarefas": [
+    {
+      "id": 1,
+      "descricao": "Estudar JavaScript",
+      "concluida": false,
+      "prioridade": "alta"
+    },
+    {
+      "id": 2,
+      "descricao": "Criar repositório no GitHub",
+      "concluida": true,
+      "prioridade": "média"
+    },
+    {
+      "id": 3,
+      "descricao": "Praticar manipulação de JSON",
+      "concluida": false,
+      "prioridade": "alta"
+    }
+  ],
+  "configuracoes": {
+    "tema": "dark",
+    "notificacoes": true,
+    "linguagem": "pt-BR"
+  }
 }
