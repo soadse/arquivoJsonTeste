@@ -1,5 +1,9 @@
 [
-  { "nome": "Naruto Uzumaki", "cla": "Uzumaki", "habilidade": "Rasengan" },
+  { 
+    "nome": "Naruto Uzumaki", 
+    "cla": "Uzumaki", 
+    "habilidade": "Rasengan" }
+  ,
   { "nome": "Sasuke Uchiha", "cla": "Uchiha", "habilidade": "Chidori" },
   { "nome": "Sakura Haruno", "cla": "Haruno", "habilidade": "Força sobre-humana" },
   { "nome": "Kakashi Hatake", "cla": "Hatake", "habilidade": "Sharingan" },
