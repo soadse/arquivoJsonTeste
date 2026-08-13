@@ -1,1 +1,12 @@
-
+[
+  { "nome": "Naruto Uzumaki", "cla": "Uzumaki", "habilidade": "Rasengan" },
+  { "nome": "Sasuke Uchiha", "cla": "Uchiha", "habilidade": "Chidori" },
+  { "nome": "Sakura Haruno", "cla": "Haruno", "habilidade": "Força sobre-humana" },
+  { "nome": "Kakashi Hatake", "cla": "Hatake", "habilidade": "Sharingan" },
+  { "nome": "Hinata Hyuga", "cla": "Hyuga", "habilidade": "Byakugan" },
+  { "nome": "Shikamaru Nara", "cla": "Nara", "habilidade": "Controle de sombras" },
+  { "nome": "Rock Lee", "cla": "Nenhum", "habilidade": "Taijutsu" },
+  { "nome": "Gaara", "cla": "Kazekage", "habilidade": "Controle de areia" },
+  { "nome": "Itachi Uchiha", "cla": "Uchiha", "habilidade": "Mangekyou Sharingan" },
+  { "nome": "Jiraiya", "cla": "Nenhum", "habilidade": "Modo Sábio" }
+]
